@@ -1,6 +1,6 @@
-# Technical Mastery Dashboard
+# Technical Dashboard
 
-This repository contains a Conky configuration file that creates a technical mastery dashboard. It provides real-time system information and stats in a sleek and professional manner.
+This repository contains a Conky configuration file that creates a technical mastery dashboard. It provides real-time system information and stats in a sleek and professional manner. I have done this on my Arch Linux.
 
 ## Features
 
